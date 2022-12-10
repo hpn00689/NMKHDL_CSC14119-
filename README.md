@@ -14,5 +14,9 @@
 
 2. **Chủ đề đồ án**: 
 
-- Thực hiện các quy trình dữ liệu trên bộ dữ liệu thống kê tất cả các cầu thủ ở 5 giải châu Âu tại webstie (bộ dữ liệu thống kê phục vụ cho giải 2022/2023):  [One Versus One](https://one-versus-one.com/en/rankings/all/statistics).
+- Thực hiện các quy trình dữ liệu trên bộ dữ liệu thống kê tất cả các cầu thủ ở 5 giải châu Âu tại webstie (bộ dữ liệu thống kê phục vụ cho giải 2022/2023):  [Premierleague](https://www.premierleague.com/players).
 - Khi nhấp chuột vào các cầu thủ sẽ có các bảng chỉ số riêng, thực hiện việc lấy từng chỉ số trên đó. 
+
+3. **Quản lý đồ án**:
+
+- Đồ án được quản lý trên Trello: [Link Trello](https://trello.com/b/zKBjkRFn/final-project-i2ds)
