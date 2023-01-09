@@ -1,0 +1,10 @@
+a/
+	- Vấn đề khi ứng dụng BS4 cho việc crawl từ các trang web cần nhiều action để truy cập và khả năng delay khi crawl dữ liệu dựa vào băng thông internet.
+	- Bộ dữ liệu khi crawl về nhiều lúc bị lặp do gặp phải vấn đề mạng hoặc dự liệu sắp xếp cảu bên crawl bị lỗi.
+b/
+	- Ứng dụng BS4 chi khi dùng cơ bản về các mặt dữ liệu hiện hữu sẵn trên page hoặc link url sẵn, nhanh và dễ cài đặt. Selenium ứng dụng khả năng cho phép truy cập website qua các browser, nên có thể điều khiển được các bước cần để lấy được dữ liệu cần thiết.
+	-  Bs4 về căn bản chạy nhanh hơn Selenium nhưng lại thiếu đi khả năng tùy chỉnh để lấy từng phần cấu trúc dữ liệu của website. Selenium khá đa nhiệm nhưng lại rắc rối hơn bs4 ở một số mặt.
+	-  Data khi lấy về cần phải làm sạch dữ liệu, tìm hiểu về mật độ dự liệu có bị thiếu hay sai sót gì không, phân loại các cột dữ liệu mang tính chất phù với khả năng ứng dụng cho các công việc sau này.
+c/
+	- Ứng dụng bộ dữ liệu để dự đoán khả năng hiệu quả của từng loại cầu thủ.
+	- Bộ dữ liệu quá ít nên cần phải tăng thêm lượng dữ liêu có thể tham khảo 2 cách là chia random thành các bộ dữ liệu nhỏ rồi gộp lại hay tìm các cột dữ liệu có tính chất tương tự nhau của 3 loại cầu thủ sau đó đưa về cùng một dạng rồi chia ra thành từng cột loaij cầu thủ như cũ. 
